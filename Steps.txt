@@ -1,0 +1,8 @@
+1. create env
+python -m venv env_name
+2. bottom right corner theke select interpreter theke newly created env select krte hbe
+3. New terminal open korle 1st braket er mdde new env dekhabe
+4. regular work
+
+
+virtual theke global e nile website er 7 econnect kra jabe
